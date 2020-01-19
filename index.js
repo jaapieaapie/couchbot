@@ -104,7 +104,7 @@ client.on("message", (message) => {
 client.mysql = mysql.createConnection({
     host: "localhost",
     user: "jaap",
-    password: "1Pokemon",
+    password: "Changed this",
     database: "couch",
     supportBigNumbers: true
 })
